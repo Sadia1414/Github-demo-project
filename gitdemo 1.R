@@ -3,6 +3,7 @@
 Sys.info()
 sessionInfo()
 mean(rnorm(10000))
+mean(rlnorm(1000))
 ##end##
 
 #centrally###
